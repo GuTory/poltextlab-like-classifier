@@ -3,3 +3,4 @@ poltextlab-like-classification-model
 logs
 __pycache__
 .vscode/launch.json
+.ssh
